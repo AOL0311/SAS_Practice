@@ -1,3 +1,7 @@
+[Graphpad](https://www.graphpad.com/quickcalcs/)
+
+[Social science statistics](https://www.socscistatistics.com/tests/)
+
 2025/02/25
 
 PPT
