@@ -1,2 +1,10 @@
 2025/02/25
-[SAS data](stu_heig.sas5bdat)
+
+PPT
+[PDF](生物統計實務113-2-1_EElass.pdf)
+[PPT](生物統計實務113-2-1_EElass.ppt)
+
+Files
+[SAS data](stu_heig.sas7bdat)
+[XLSX data](Stu_Heig.xlsx)
+
