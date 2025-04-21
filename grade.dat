@@ -1,0 +1,248 @@
+  1 93   PROF X101   A      WHITE                 8
+  1 93   PROF X101   B      ASIAN AMER.           2
+  1 93   PROF X101   B      WHITE                22
+  1 93   PROF X101   C      ASIAN AMER.           2
+  1 93   PROF X101   C      WHITE                16
+  1 93   PROF X101   D      WHITE                 2
+  1 93   PROF X101   WX     AFRICAN AMER.         1
+  1 93   PROF X101   WX     WHITE                 1
+  1 93   PROF X202   A      HISPANIC              2
+  1 93   PROF X202   A      WHITE                13
+  1 93   PROF X202   B      WHITE                32
+  1 93   PROF X202   C      AFRICAN AMER.         3
+  1 93   PROF X202   C      HISPANIC              1
+  1 93   PROF X202   C      WHITE                42
+  1 93   PROF X202   D      AFRICAN AMER.         4
+  1 93   PROF X202   D      HISPANIC              3
+  1 93   PROF X202   D      WHITE                18
+  1 93   PROF X202   F      AFRICAN AMER.         2
+  1 93   PROF X202   F      WHITE                 2
+  1 93   PROF X202   WX     AFRICAN AMER.         1
+  1 93   PROF X202   WX     WHITE                 2
+  1 93   PROF OTHER  A      ASIAN AMER.           4
+  1 93   PROF OTHER  A      AFRICAN AMER.         8
+  1 93   PROF OTHER  A      HISPANIC              9
+  1 93   PROF OTHER  A      WHITE               256
+  1 93   PROF OTHER  B      ASIAN AMER.           4
+  1 93   PROF OTHER  B      AFRICAN AMER.        12
+  1 93   PROF OTHER  B      HISPANIC             16
+  1 93   PROF OTHER  B      WHITE               449
+  1 93   PROF OTHER  C      ASIAN AMER.           2
+  1 93   PROF OTHER  C      AFRICAN AMER.        14
+  1 93   PROF OTHER  C      HISPANIC              4
+  1 93   PROF OTHER  C      WHITE               124
+  1 93   PROF OTHER  D      AFRICAN AMER.         4
+  1 93   PROF OTHER  D      WHITE                 9
+  1 93   PROF OTHER  F      WHITE                 1
+  1 93   PROF OTHER  R      AFRICAN AMER.         5
+  1 93   PROF OTHER  R      HISPANIC              3
+  1 93   PROF OTHER  R      WHITE                69
+  1 93   PROF OTHER  W      AFRICAN AMER.         2
+  1 93   PROF OTHER  W      HISPANIC              1
+  1 93   PROF OTHER  W      WHITE                63
+  1 93   PROF OTHER  WX     ASIAN AMER.           1
+  1 93   PROF OTHER  WX     WHITE                 7
+  1 94   PROF X101   A      ASIAN AMER.           2
+  1 94   PROF X101   A      WHITE                12
+  1 94   PROF X101   B      WHITE                17
+  1 94   PROF X101   C      ASIAN AMER.           1
+  1 94   PROF X101   C      AFRICAN AMER.         2
+  1 94   PROF X101   C      WHITE                12
+  1 94   PROF X101   D      ASIAN AMER.           1
+  1 94   PROF X101   D      WHITE                 1
+  1 94   PROF X101   F      WHITE                 1
+  1 94   PROF X101   R      AFRICAN AMER.         1
+  1 94   PROF X101   R      WHITE                 1
+  1 94   PROF X101   W      WHITE                 1
+  1 94   PROF X202   A      ASIAN AMER.           2
+  1 94   PROF X202   A      WHITE                18
+  1 94   PROF X202   B      ASIAN AMER.           2
+  1 94   PROF X202   B      AFRICAN AMER.         1
+  1 94   PROF X202   B      WHITE                33
+  1 94   PROF X202   C      ASIAN AMER.           1
+  1 94   PROF X202   C      AFRICAN AMER.         1
+  1 94   PROF X202   C      WHITE                26
+  1 94   PROF X202   D      ASIAN AMER.           3
+  1 94   PROF X202   D      AFRICAN AMER.         1
+  1 94   PROF X202   D      WHITE                16
+  1 94   PROF X202   F      WHITE                 1
+  1 94   PROF X202   WX     ASIAN AMER.           1
+  1 94   PROF X202   WX     WHITE                 7
+  1 94   PROF OTHER  A      ASIAN AMER.           7
+  1 94   PROF OTHER  A      AFRICAN AMER.         1
+  1 94   PROF OTHER  A      HISPANIC              2
+  1 94   PROF OTHER  A      WHITE               255
+  1 94   PROF OTHER  B      ASIAN AMER.          17
+  1 94   PROF OTHER  B      AFRICAN AMER.        15
+  1 94   PROF OTHER  B      HISPANIC              9
+  1 94   PROF OTHER  B      WHITE               390
+  1 94   PROF OTHER  C      ASIAN AMER.           7
+  1 94   PROF OTHER  C      AFRICAN AMER.        13
+  1 94   PROF OTHER  C      HISPANIC              4
+  1 94   PROF OTHER  C      WHITE               116
+  1 94   PROF OTHER  D      ASIAN AMER.           1
+  1 94   PROF OTHER  D      AFRICAN AMER.         3
+  1 94   PROF OTHER  D      WHITE                 6
+  1 94   PROF OTHER  R      ASIAN AMER.           2
+  1 94   PROF OTHER  R      AFRICAN AMER.         6
+  1 94   PROF OTHER  R      HISPANIC              5
+  1 94   PROF OTHER  R      WHITE               100
+  1 94   PROF OTHER  W      WHITE                 3
+  1 94   PROF OTHER  WX     ASIAN AMER.           1
+  1 94   PROF OTHER  WX     AFRICAN AMER.         1
+  1 94   PROF OTHER  WX     WHITE                 9
+  1 95   PROF X101   A      WHITE                12
+  1 95   PROF X101   B      ASIAN AMER.           2
+  1 95   PROF X101   B      WHITE                27
+  1 95   PROF X101   C      WHITE                14
+  1 95   PROF X101   D      AFRICAN AMER.         1
+  1 95   PROF X101   W      WHITE                 1
+  1 95   PROF X101   WX     WHITE                 2
+  1 95   PROF X202   A      ASIAN AMER.           1
+  1 95   PROF X202   A      WHITE                19
+  1 95   PROF X202   B      ASIAN AMER.           3
+  1 95   PROF X202   B      WHITE                27
+  1 95   PROF X202   C      WHITE                19
+  1 95   PROF X202   D      AFRICAN AMER.         2
+  1 95   PROF X202   D      WHITE                 9
+  1 95   PROF X202   W      AFRICAN AMER.         1
+  1 95   PROF OTHER  A      ASIAN AMER.          14
+  1 95   PROF OTHER  A      AFRICAN AMER.         1
+  1 95   PROF OTHER  A      HISPANIC              2
+  1 95   PROF OTHER  A      WHITE               284
+  1 95   PROF OTHER  B      ASIAN AMER.          24
+  1 95   PROF OTHER  B      AFRICAN AMER.        10
+  1 95   PROF OTHER  B      HISPANIC              3
+  1 95   PROF OTHER  B      WHITE               446
+  1 95   PROF OTHER  C      ASIAN AMER.          12
+  1 95   PROF OTHER  C      AFRICAN AMER.         9
+  1 95   PROF OTHER  C      HISPANIC              1
+  1 95   PROF OTHER  C      WHITE                88
+  1 95   PROF OTHER  D      AFRICAN AMER.         3
+  1 95   PROF OTHER  D      WHITE                 8
+  1 95   PROF OTHER  R      HISPANIC              1
+  1 95   PROF OTHER  R      WHITE                15
+  1 95   PROF OTHER  W      WHITE                 2
+  1 95   PROF OTHER  WX     WHITE                 4
+  1 96   PROF X101   A      WHITE                12
+  1 96   PROF X101   B      AFRICAN AMER.         1
+  1 96   PROF X101   B      WHITE                26
+  1 96   PROF X101   C      HISPANIC              1
+  1 96   PROF X101   C      WHITE                 7
+  1 96   PROF X101   D      WHITE                 3
+  1 96   PROF X101   W      AFRICAN AMER.         1
+  1 96   PROF X101   W      WHITE                 5
+  1 96   PROF X202   A      ASIAN AMER.           1
+  1 96   PROF X202   A      WHITE                21
+  1 96   PROF X202   B      WHITE                42
+  1 96   PROF X202   C      ASIAN AMER.           1
+  1 96   PROF X202   C      AFRICAN AMER.         1
+  1 96   PROF X202   C      WHITE                32
+  1 96   PROF X202   D      ASIAN AMER.           2
+  1 96   PROF X202   D      WHITE                 9
+  1 96   PROF X202   F      AFRICAN AMER.         1
+  1 96   PROF X202   W      ASIAN AMER.           1
+  1 96   PROF X202   W      WHITE                 1
+  1 96   PROF X202   WX     HISPANIC              1
+  1 96   PROF X202   WX     WHITE                 1
+  1 96   PROF OTHER  A      ASIAN AMER.           8
+  1 96   PROF OTHER  A      AFRICAN AMER.         3
+  1 96   PROF OTHER  A      HISPANIC              1
+  1 96   PROF OTHER  A      WHITE               259
+  1 96   PROF OTHER  B      ASIAN AMER.          24
+  1 96   PROF OTHER  B      AFRICAN AMER.         6
+  1 96   PROF OTHER  B      HISPANIC              1
+  1 96   PROF OTHER  B      WHITE               415
+  1 96   PROF OTHER  C      ASIAN AMER.           8
+  1 96   PROF OTHER  C      AFRICAN AMER.         6
+  1 96   PROF OTHER  C      HISPANIC              3
+  1 96   PROF OTHER  C      WHITE                99
+  1 96   PROF OTHER  D      AFRICAN AMER.         1
+  1 96   PROF OTHER  D      HISPANIC              1
+  1 96   PROF OTHER  D      WHITE                 2
+  1 96   PROF OTHER  F      AFRICAN AMER.         1
+  1 96   PROF OTHER  R      ASIAN AMER.           3
+  1 96   PROF OTHER  R      AFRICAN AMER.         2
+  1 96   PROF OTHER  R      WHITE                46
+  1 96   PROF OTHER  W      WHITE                 4
+  1 96   PROF OTHER  WX     AFRICAN AMER.        10
+  1 96   PROF OTHER  WX     HISPANIC              1
+  1 96   PROF OTHER  WX     WHITE                 6
+  1 97   PROF X101   A      WHITE                24
+  1 97   PROF X101   B      ASIAN AMER.           2
+  1 97   PROF X101   B      AFRICAN AMER.         1
+  1 97   PROF X101   B      WHITE                23
+  1 97   PROF X101   C      HISPANIC              1
+  1 97   PROF X101   C      WHITE                 7
+  1 97   PROF X101   D      WHITE                 1
+  1 97   PROF X101   W      AFRICAN AMER.         2
+  1 97   PROF X101   WX     AFRICAN AMER.         1
+  1 97   PROF X202   A      WHITE                25
+  1 97   PROF X202   B      ASIAN AMER.           2
+  1 97   PROF X202   B      AFRICAN AMER.         2
+  1 97   PROF X202   B      HISPANIC              1
+  1 97   PROF X202   B      WHITE                38
+  1 97   PROF X202   C      WHITE                15
+  1 97   PROF X202   D      ASIAN AMER.           2
+  1 97   PROF X202   D      HISPANIC              1
+  1 97   PROF X202   D      WHITE                 2
+  1 97   PROF X202   F      WHITE                 3
+  1 97   PROF X202   W      AFRICAN AMER.         1
+  1 97   PROF X202   WX     AFRICAN AMER.         1
+  1 97   PROF X202   WX     WHITE                 1
+  1 97   PROF OTHER  A      ASIAN AMER.           9
+  1 97   PROF OTHER  A      HISPANIC              1
+  1 97   PROF OTHER  A      WHITE               312
+  1 97   PROF OTHER  B      ASIAN AMER.          19
+  1 97   PROF OTHER  B      AFRICAN AMER.        13
+  1 97   PROF OTHER  B      HISPANIC              6
+  1 97   PROF OTHER  B      WHITE               416
+  1 97   PROF OTHER  C      ASIAN AMER.          10
+  1 97   PROF OTHER  C      AFRICAN AMER.        10
+  1 97   PROF OTHER  C      WHITE               106
+  1 97   PROF OTHER  D      WHITE                 4
+  1 97   PROF OTHER  F      WHITE                 1
+  1 97   PROF OTHER  R      ASIAN AMER.           5
+  1 97   PROF OTHER  R      AFRICAN AMER.         3
+  1 97   PROF OTHER  R      WHITE                92
+  1 97   PROF OTHER  W      ASIAN AMER.           1
+  1 97   PROF OTHER  W      AFRICAN AMER.         1
+  1 97   PROF OTHER  W      WHITE                 2
+  1 97   PROF OTHER  WX     WHITE                 3
+  1 98   PROF X101   A      ASIAN AMER.           2
+  1 98   PROF X101   A      WHITE                31
+  1 98   PROF X101   B      ASIAN AMER.           1
+  1 98   PROF X101   B      AFRICAN AMER.         1
+  1 98   PROF X101   B      WHITE                14
+  1 98   PROF X101   C      AFRICAN AMER.         2
+  1 98   PROF X101   C      WHITE                 3
+  1 98   PROF X101   WX     WHITE                 3
+  1 98   PROF X202   A      WHITE                28
+  1 98   PROF X202   B      ASIAN AMER.           3
+  1 98   PROF X202   B      WHITE                44
+  1 98   PROF X202   C      WHITE                28
+  1 98   PROF X202   D      WHITE                 2
+  1 98   PROF X202   F      AFRICAN AMER.         1
+  1 98   PROF X202   F      HISPANIC              1
+  1 98   PROF X202   W      AFRICAN AMER.         1
+  1 98   PROF X202   W      WHITE                 3
+  1 98   PROF X202   WX     WHITE                 5
+  1 98   PROF OTHER  A      ASIAN AMER.           9
+  1 98   PROF OTHER  A      AFRICAN AMER.         2
+  1 98   PROF OTHER  A      HISPANIC              6
+  1 98   PROF OTHER  A      WHITE               339
+  1 98   PROF OTHER  B      ASIAN AMER.          15
+  1 98   PROF OTHER  B      AFRICAN AMER.        18
+  1 98   PROF OTHER  B      HISPANIC              7
+  1 98   PROF OTHER  B      WHITE               425
+  1 98   PROF OTHER  C      ASIAN AMER.           6
+  1 98   PROF OTHER  C      AFRICAN AMER.         9
+  1 98   PROF OTHER  C      HISPANIC              2
+  1 98   PROF OTHER  C      WHITE                49
+  1 98   PROF OTHER  D      AFRICAN AMER.         1
+  1 98   PROF OTHER  F      AFRICAN AMER.         2
+  1 98   PROF OTHER  R      ASIAN AMER.           2
+  1 98   PROF OTHER  R      WHITE                43
+  1 98   PROF OTHER  W      ASIAN AMER.           1
+  1 98   PROF OTHER  WX     ASIAN AMER.           1
+  1 98   PROF OTHER  WX     WHITE                14
