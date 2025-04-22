@@ -2,15 +2,14 @@
 
 [Social science statistics](https://www.socscistatistics.com/tests/)
 
-# 2025/02/25
+[SAS 123](https://osf.io/pfe4b/files/osfstorage?view_only=f126185938544d3abec59ca4d49def3e)
 
-#### PPT
-[PDF](生物統計實務113-2-1_EElass.pdf)
-[PPT](生物統計實務113-2-1_EElass.ppt)
+# Data 在 assets 資料夾中
+
+# 2025/02/25
 
 #### Files
 [SAS data](stu_heig.sas7bdat)
-[XLSX data](Stu_Heig.xlsx)
 
 # 2025/03/04
 
